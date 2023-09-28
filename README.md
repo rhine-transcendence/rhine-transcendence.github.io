@@ -1,2 +1,2 @@
 
-Website for the Rhine Transcendence Seminar at universities Basel, Freiburg and Strasbourg.
+Website for the Rhine Seminar on Transcendence Basel-Freiburg-Strasbourg.
