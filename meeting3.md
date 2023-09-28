@@ -2,9 +2,7 @@
 <BODY>
  <TABLE>
     <TR>
-	<H1><b>Rhine Seminar on Transcendence Basel-Freiburg-Strasbourg</b>
-	</H1>
-	    <H2>Third Meeting</H2>
+	    <H1>Third Meeting</H1>
     </TR>
   </TABLE>
 <hr>
