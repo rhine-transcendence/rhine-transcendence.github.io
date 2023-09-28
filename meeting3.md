@@ -1,5 +1,3 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-
 <HTML>
 <BODY>
  <TABLE>
@@ -7,7 +5,6 @@
 	<H1><b>Rhine Seminar on Transcendence Basel-Freiburg-Strasbourg</b>
 	</H1>
 	    <H2>Third Meeting</H2>
-      </TD>	
     </TR>
   </TABLE>
 <hr>
@@ -36,7 +33,4 @@ scattering in the string theory.<p>
 <li>Coffee break<p>
 <li><b>15:30-16:30  Gerold Schefer (Basel): Logarithmic equidistribution in small heights</b><p>
 <p>Bilu's theorem about equidistribution of conjugates of algebraic numbers of small height is the prototype of many equidistribution results. It states that for any strict sequence of algebraic numbers (a_n) whose absolute logarithmic Weil height tends to zero, and any continuous and bounded function f: C* -> C the averages of the evaluations of f in the conjugates a_n of converge to the integral of f over the unit circle. In this talk we want to understand for which algebraic numbers k we still get convergence if we take the test function x -> log|x-k| . Pineiro, Szpiro and Tucker conjectured convergence for rational k. Autissier disproved it taking k = 2. Breuillard and Frey considered k = 1, for which convergence holds. Recently R. Baker and Masser showed that for every algebraic k =/= 0 which does not lie on the unit circle, convergence fails. The focus will thus be on k lying on the unit circle, not a root of unity.
-</ul>
 
-</BODY>
-</HTML>
