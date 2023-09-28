@@ -1,5 +1,3 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-
 <HTML>
 <BODY>
  <TABLE>
@@ -7,7 +5,6 @@
 	<H1><b>Rhine Seminar on Transcendence Basel-Freiburg-Strasbourg</b>
 	</H1>
 	    <H2>First Meeting</H2>
-      </TD>	
     </TR>
   </TABLE>
 <hr>
@@ -30,7 +27,6 @@ I will talk about a new equidistribution result for the roots of polynomials wit
 <li>Coffee break<p>
 <li><b>15:30-16:15 Christoph Brackenhofer: C^1-triangulations of semi-algebraic sets</b><p>
 <p>If one wants to treat integration of differential forms over semi-algebraic sets analogous to the case of smooth manifolds, it is desirable to have triangulations of semi-algebraic sets that are globally of class C^1. We will present a proof of the existence of such triangulations using the 'panel beating' method introduced by Ohmoto-Shiota (2017) and discuss possible generalizations. 	
-</ul>
 
 </BODY>
 </HTML>
