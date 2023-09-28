@@ -1,5 +1,3 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-
 <HTML>
 <BODY>
  <TABLE>
@@ -7,7 +5,6 @@
 	<H1><b>Rhine Seminar on Transcendence Basel-Freiburg-Strasbourg</b>
 	</H1>
 	<H2>Second Meeting </H2>    
-      </TD>	
     </TR>
   </TABLE>
 <hr>
@@ -29,7 +26,4 @@ Motivated by the study of algebraic classes in mixed characteristic, we define a
 <li>Coffee break<p>
 <li><b>15:15-16:00 Francesco Gallinaro (Freiburg): Exponential Sums Equations and Tropical Geometry</b><p>
 <p>The Exponential-Algebraic Closedness Conjecture, due to Zilber, predicts sufficient conditions for systems of equations involving polynomials and exponentials to be solvable in the complex numbers; it is formulated geometrically, asking about the intersections between complex algebraic varieties and (Cartesian powers of) the graph of the exponential function. The conjecture originated from model theory, and it would imply a strong tameness result for subsets of the complex numbers that are definable using polynomials and exponentials. In this talk, we will briefly recall the motivation of this question and then focus on the case of varieties which split as the product of a linear space and an algebraic subvariety of the multiplicative group. These varieties correspond to systems of exponential sums equations, and the proof that the conjecture holds in this case uses tropical geometry and the theory of toric varieties. 	
-</ul>
-
-</BODY>
-</HTML>
+<\HTML>
