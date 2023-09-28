@@ -1,6 +1,5 @@
 <html>
 <body>
-<h1>Rhine Seminar on Transcendence Basel-Freiburg-Strasbourg</h1>
 <p>The Rhine Seminar on Transcendence is a joint initative of Giuseppe Ancona and Thomas Dreyfus (Strasbourg),
 Annette Huber and Amador Martin-Pizarro (Freiburg), Philipp Habegger (Basel).
 
