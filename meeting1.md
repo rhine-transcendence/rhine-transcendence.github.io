@@ -8,7 +8,7 @@
 </HEAD>
 
 <BODY>
-  <TABLE id="main" cellpadding="0" cellspacing="0" width=100%>
+ <TABLE>
     <TR>
 	<H1><b>Rhine Seminar on Transcendence Basel-Freiburg-Strasbourg</b>
 	</H1>
