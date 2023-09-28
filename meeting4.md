@@ -1,4 +1,3 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 
 <HTML>
 <BODY>
@@ -6,8 +5,8 @@
     <TR>
 	<H1><b>Rhine Seminar on Transcendence Basel-Freiburg-Strasbourg</b>
 	</H1>
-	<H2>Fourth Meeting</H2>    
-      </TD>	
+	<H2>Fourth Meeting
+	</H2>    
     </TR>
   </TABLE>
 <hr>
@@ -26,7 +25,4 @@
 <li>Coffee break<p>
 <li><b>15:00-15:45 Annette Huber (Freiburg): Dimension of period spaces</b><p>
 <p>
-</ul>
 
-</BODY>
-</HTML>
