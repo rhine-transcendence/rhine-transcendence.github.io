@@ -10,15 +10,6 @@
 <BODY>
   <TABLE id="main" cellpadding="0" cellspacing="0" width=100%>
     <TR>
-      <TD id="logo">
-        <IMG SRC="http://www.math.uni-freiburg.de/i/siegel2.gif"
-	alt="Siegel"
-	ALIGN="middle">
-      </TD>
-      <TD id="grobschnitt" ALIGN=CENTER>
-      
-
-
 	<H1><b>Rhine Seminar on Transcendence Basel-Freiburg-Strasbourg</b>
 	</H1>
       </TD>	
