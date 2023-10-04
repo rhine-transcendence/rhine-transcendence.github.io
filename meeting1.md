@@ -7,7 +7,7 @@
   </TABLE>
 <hr>
 
-<b>Organisers:</b>  Giuseppe Ancona and Thomas Dreyfus (Strasbourg), Amador Martin-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
+<b>Organisers:</b> Giuseppe Ancona and Thomas Dreyfus (Strasbourg), Amador Martin-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
 <b>Date:</b> March 21, 2022<br>
 <b>Venue:</b>Freiburg 
 <p>
