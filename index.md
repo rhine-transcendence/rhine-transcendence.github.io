@@ -7,7 +7,7 @@ We plan to meet around twice a year and discuss current research revolving aroun
 </body>
 
 <body> 
-<h2> Current event</h2> 
+<h2>Current event</h2> 
 <p>October 12, 2023: <a href="https://rhine-transcendence.github.io/meeting4">4th Meeting (Freiburg)</a>  </p>
 <h2>Past events</h2>
 <p>March 23, 2023: <a href="https://rhine-transcendence.github.io/meeting3">3rd Meeting (Strasbourg)</a></p>
