@@ -7,9 +7,10 @@ We plan to meet around twice a year and discuss current research revolving aroun
 </body>
 
 <body> 
-<h2>Current event</h2> 
-<p>October 12, 2023: <a href="https://rhine-transcendence.github.io/meeting4">4th Meeting (Freiburg)</a>  </p>
+<h2>Upcoming event</h2> 
+<p>April 11, 2024: <a href="https://rhine-transcendence.github.io/meeting5">5th Meeting (Basel)</a>  </p>
 <h2>Past events</h2>
+<p>October 12, 2023: <a href="https://rhine-transcendence.github.io/meeting4">4th Meeting (Freiburg)</a>  </p>
 <p>March 23, 2023: <a href="https://rhine-transcendence.github.io/meeting3">3rd Meeting (Strasbourg)</a></p>
 <p>November 4, 2022: <a href="https://rhine-transcendence.github.io/meeting2">2nd Meeting (Basel)</a></p>
 <p>March 21, 2022: <a href="https://rhine-transcendence.github.io/meeting1">1st Meeting (Freiburg)</a></p>  
