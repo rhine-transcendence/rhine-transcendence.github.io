@@ -14,9 +14,8 @@
 <p>
 <hr>
 <h1>Program</h1>
-<ul> TBA
 
-  <!--
+
 <li> 9:30-11:00 Welcome coffee<p>
 <li><b>11:00-11:50 Andreas Demleitner (Freiburg): <!-- Abstract --->
 </p>	
