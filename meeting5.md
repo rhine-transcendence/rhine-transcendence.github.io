@@ -21,8 +21,8 @@
 <li><b>11:00-11:50 Andreas Demleitner (Freiburg): <!-- Abstract --->
 </p>	
 <li>Lunch<p>
-<li><b>14:00-14:50 Philipp Habegger (Basel): Abstract <!-- Abstract ---> </b><p><p>
+<li><b>14:00-14:50 Philipp Habegger (Basel): <!-- Title, Abstract ---> </b><p><p>
 <li>14:50-15:20 Coffee break<p>
 <li><b>15:20-16:10 Nirvana Coppola (Strasbourg): <!-- Abstract ---> </b><p>
 <p>
--->
+
