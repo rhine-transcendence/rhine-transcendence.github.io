@@ -10,7 +10,7 @@
 
 <b>Organisers:</b>  Giuseppe Ancona (Strasbourg), Amador Martin-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
 <b>Date:</b> April 11, 2024<br>
-<b>Venue:</b> Basel
+<b>Venue:</b> Basel, Hörsaal 120 in Kollegienhaus (Petersplatz 1)
 <p>
 <hr>
 <h1>Program</h1>
@@ -21,7 +21,8 @@
 Compact flat Riemannian manifolds (i.e., quotients of <i>real</i> tori by the action of a finite group) exhibit a certain rigidity: they are uniquely determined by their fundamental group. In contrast, most compact complex manifolds "come in families", meaning that they allow for non-trivial (small) deformations. In my talk, I will introduce the concept of rigidity of compact complex manifolds and explain the existence of rigid hyperelliptic manifolds (i.e., quotients of <i>complex</i> tori by the action of a finite group). Additionally, I will outline a classification algorithm for these manifolds. This is joint work with Christian Gleissner.
 <p>
 <li>Lunch<p>
-<li><b>14:00-14:50 Philipp Habegger (Basel) </b> <!-- Title, Abstract ---> <p>
+<li><b>14:00-14:50 Philipp Habegger (Basel): The transfinite diameter of trees and dynamical Schinzel-Zassenhaus </b> <p>
+A few years ago, Dimitrov proved the Schinzel-Zassenhaus Conjecture. Harry Schmidt and I showed how his general strategy can be adapted to cover some dynamical variants of this conjecture. One common tool in both results is Dubinin's Theorem on the transfinite diameter of hedgehogs. Motivated by Mahler's work on root separation, I gave an elementary proof of Dubinin's Theorem, albeit with a worse numerical constant. In this talk I will report on joint work in progress with Harry Schmidt. We find new upper bounds for the transfinite diameter of some finite topological trees. These trees are more attuned to the dynamical setting then hedgehogs and cover some post-critically finite polynomials.
 <li>14:50-15:20 Coffee break<p>
 <li><b>15:20-16:10 Nirvana Coppola (Strasbourg): On perfect powers that are sums of cubes of a nine term arithmetic progression </b> <p>
 Solving Diophantine equations has always been one of the most fascinating problems in number theory, since even if it can be easily formulated, it almost always requires advanced techniques.
