@@ -30,4 +30,4 @@ Solving Diophantine equations has always been one of the most fascinating proble
 In this talk, I will focus on equations that relate sums of powers to perfect powers. After showing some examples that are in the literature, I will discuss the (non-)existence of perfect powers that are sums of cubes of a nine-term arithmetic progression. The proof involves a battery of techniques and both theoretical and computational tools. This is joint work with Mar Curcó-Iranzo, Maleeha Khawaja, Vandita Patel, Özge Ülkem.	
 <p>
 
-<li>You are cordially invited to attend the <a href="https://dmi.unibas.ch/de/news-events/detail/perlenkolloquium-roman-shvydkoy-university-of-illinois-at-chicago/">colloquium talk</a> by Roman Shvydkoy (University of Illinois at Chicago) afterwards.</li>
+<p>You are cordially invited to attend the <a href="https://dmi.unibas.ch/de/news-events/detail/perlenkolloquium-roman-shvydkoy-university-of-illinois-at-chicago/">colloquium talk</a> by Roman Shvydkoy (University of Illinois at Chicago) afterwards.</p>
