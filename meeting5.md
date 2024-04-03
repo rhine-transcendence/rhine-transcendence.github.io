@@ -15,7 +15,7 @@
 <hr>
 <h1>Program </h1>
 
-<p>This program has been updated on April 3</p>
+<p>This program has been updated on April 3!</p>
 
 <li> 9:30-10:50 Welcome coffee<p>
 <li><b>10:50-11:40 Andreas Demleitner (Freiburg): Rigidity of Hyperelliptic Manifolds </b> <p>
