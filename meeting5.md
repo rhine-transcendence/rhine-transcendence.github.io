@@ -15,8 +15,6 @@
 <hr>
 <h1>Program </h1>
 
-<p>This program has been updated on April 3!</p>
-
 <li> 9:30-10:50 Welcome coffee<p>
 <li><b>10:50-11:40 Andreas Demleitner (Freiburg): Rigidity of Hyperelliptic Manifolds </b> <p>
 Compact flat Riemannian manifolds (i.e., quotients of <i>real</i> tori by the action of a finite group) exhibit a certain rigidity: they are uniquely determined by their fundamental group. In contrast, most compact complex manifolds "come in families", meaning that they allow for non-trivial (small) deformations. In my talk, I will introduce the concept of rigidity of compact complex manifolds and explain the existence of rigid hyperelliptic manifolds (i.e., quotients of <i>complex</i> tori by the action of a finite group). Additionally, I will outline a classification algorithm for these manifolds. This is joint work with Christian Gleissner.
