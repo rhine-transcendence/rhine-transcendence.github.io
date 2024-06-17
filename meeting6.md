@@ -9,7 +9,7 @@
 <hr>
 
 <b>Organisers:</b>  Giuseppe Ancona (Strasbourg), Amador Martin-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
-<b>Date:</b> October 18, 2024<br>
+<b>Date:</b> October 14, 2024<br>
 <b>Venue:</b> Strasbourg
 <p>
 <hr>
