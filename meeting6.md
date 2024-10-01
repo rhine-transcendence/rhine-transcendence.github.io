@@ -22,11 +22,9 @@ What are the common properties of all finite fields expressible in first order l
 <p>
 <li>Lunch<p>
 <li><b> <!-- 13:50-14:40 --> tbc </b> <p>
-<!-- A few years ago, Dimitrov proved the Schinzel-Zassenhaus Conjecture. Harry Schmidt and I showed how his general strategy can be adapted to cover some dynamical variants of this conjecture. One common tool in both results is Dubinin's Theorem on the transfinite diameter of hedgehogs. Motivated by Mahler's work on root separation, I gave an elementary proof of Dubinin's Theorem, albeit with a worse numerical constant. In this talk I will report on joint work in progress with Harry Schmidt. We find new upper bounds for the transfinite diameter of some finite topological trees. These trees are more attuned to the dynamical setting then hedgehogs and cover some post-critically finite polynomials. 
-<li>14:40-15:10 Coffee break<p> -->
+<!-- A few years ago, Dimitrov proved the Schinzel-Zassenhaus Conjecture. Harry Schmidt and I showed how his general strategy can be adapted to cover some dynamical variants of this conjecture. One common tool in both results is Dubinin's Theorem on the transfinite diameter of hedgehogs. Motivated by Mahler's work on root separation, I gave an elementary proof of Dubinin's Theorem, albeit with a worse numerical constant. In this talk I will report on joint work in progress with Harry Schmidt. We find new upper bounds for the transfinite diameter of some finite topological trees. These trees are more attuned to the dynamical setting then hedgehogs and cover some post-critically finite polynomials. -->
+<li>Coffee break<p>
 <li><b> <!-- 15:10-16:00 --> Abishek Oswal (Freiburg): p-adic hyperbolicity of the moduli space of abelian varieties </b> <p>
 By a theorem of Borel, any holomorphic map from a complex algebraic variety to the moduli space of abelian varieties (and more generally to an arithmetic variety) is in fact algebraic. A key input is to prove that any holomorphic map from a product of punctured disks to such an arithmetic variety does not have any essential singularities.  
 In this talk, I'll discuss a p-adic analogue of these results. This is joint work with Ananth Shankar and Xinwen Zhu (with an appendix by Anand Patel).
 <p>
-
--->
