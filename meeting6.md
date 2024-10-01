@@ -14,10 +14,9 @@
 <p>
 <hr>
 <h1>Program </h1>
- <li> TBD </li> 
 <!--
 <li> 9:30-10:50 Welcome coffee<p> -->
-<li><b> <!-- 10:50-11:40 --> Stefan Ludwig: Model theory of difference fields with an additive character on the fixed field </b> <p>
+<li><b> <!-- 10:50-11:40 --> Stefan Ludwig (Freiburg): Model theory of difference fields with an additive character on the fixed field </b> <p>
 What are the common properties of all finite fields expressible in first order logic (in the language of rings)? In 1968 James Ax, building on number theoretic results, answered this question and initiated the study of pseudofinite fields, the infinite models of the theory of finite fields. Ehud Hrushovski generalised Ax's theorem in two directions passing to richer structures: Finite fields equipped with an additive character and the algebraic closure of finite fields with a symbol for the Frobenius. In this talk, we will start by giving some basic notions from model theory as well as Ax's theorem and then show how to combine Hrushovski's results into one theory.
 <p>
 <li>Lunch<p>
