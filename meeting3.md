@@ -9,7 +9,7 @@
 
 <b>Organisers:</b>  Giuseppe Ancona and Thomas Dreyfus (Strasbourg), Amador Martin-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
 <b>Date:</b> March 23, 2023<br>
-<b>Venue:</b>Strasbourg 
+<b>Venue:</b> Strasbourg 
 <p>
 <hr>
 <h1>Program</h1>
