@@ -9,7 +9,7 @@
 <hr>
 
 <b>Organisers:</b>  Giuseppe Ancona (Strasbourg), Amador Martin-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
-<b>Date:</b> April 4, 2025<br>
+<b>Date:</b> March 28, 2025<br>
 <b>Venue:</b> Universität Freiburg
 <p>
 <hr>
