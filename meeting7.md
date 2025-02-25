@@ -22,4 +22,8 @@ Around 1921 Polya posed a problem about algebraicity of the indefinite integral 
 <li>Lunch <p>
 <li><b> 14:00-14:55 Marco Artusa (Strasbourg): tba </b> <p>
 <li>Coffee break<p>
-<li><b> 15:30-16:25 Alexei Skorobogatov (Imperial College London): tba </b> <p></p> 
+<li><b> 15:30-16:25 Tba </b> <p></p> 
+
+<!---
+Alexei Skorobogatov (Imperial College London): 
+--->
