@@ -15,12 +15,12 @@
 <hr>
 <h1> (Tentative) Program </h1>
 
-<li> 10:15-11:00 Coffee reception <p>
+<li> 10:15-11:00 Coffee reception <p></p>
 <li><b> 11:00-11:55 Umberto Zannier (Scuola Normale Pisa): On a problem of Polya and some of its evolutions </b> <p>
 Around 1921 Polya posed a problem about algebraicity of the indefinite integral of an algebraic function, in terms of the integrality of the coefficients in a power-series expansion. This was solved much later by transcendence techniques. It also connects with a conjecture of Grothendieck on linear differential equations over polynomial rings, and with other number-theoretical issues. We shall survey on the topic, also illustrating a question related to a different possible approach to Polya's issue, and some answers given by Katz.
 <p>
 <li>Lunch <p>
-<li><b> 14:00-14:55 Marco Artusa (Strasbourg): Topological duality for 1-motives over a p-adic field </b> <p>
+<li><b> 14:00-14:55 Marco Artusa (Strasbourg): Topological duality for 1-motives over a p-adic field </b> <p></p>
 Duality theorems are among the central statements in arithmetic geometry. For p-adic fields, the earliest example is Tate's duality for Galois cohomology of abelian varieties. The classical generalisation of this result to tori is not satisfying enough. This is due to certain shortcomings of Galois cohomology, such as the absence of a natural topology on cohomology groups. In this talk, we build a new topological cohomology theory for p-adic fields, thanks to the Weil group and Condensed Mathematics. We use it to extend Tate's theorem to 1-motives, improving a result by Harari and Szamuely. This new duality takes the form of a Pontryagin duality between locally compact abelian groups.<p></p>
 <li>Coffee break<p>
 <li><b> 15:30-16:25 Tba </b> <p></p> 
