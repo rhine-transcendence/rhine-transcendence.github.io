@@ -23,7 +23,7 @@ Around 1921 Polya posed a problem about algebraicity of the indefinite integral 
 <li><b> 14:00-14:55 Marco Artusa (Strasbourg): Topological duality for 1-motives over a p-adic field </b> <p></p>
 Duality theorems are among the central statements in arithmetic geometry. For p-adic fields, the earliest example is Tate's duality for Galois cohomology of abelian varieties. The classical generalisation of this result to tori is not satisfying enough. This is due to certain shortcomings of Galois cohomology, such as the absence of a natural topology on cohomology groups. In this talk, we build a new topological cohomology theory for p-adic fields, thanks to the Weil group and Condensed Mathematics. We use it to extend Tate's theorem to 1-motives, improving a result by Harari and Szamuely. This new duality takes the form of a Pontryagin duality between locally compact abelian groups.<p></p>
 <li>Coffee break<p>
-<li><b> 15:30-16:25 Tba </b> <p></p> 
+<li><b> 15:30-16:25 TBA </b> <p></p> 
 
 <!---
 Alexei Skorobogatov (Imperial College London): 
