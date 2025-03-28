@@ -8,6 +8,8 @@
   </TABLE>
 <hr>
 
+More infos to come in a few months.
+
 <!---
 
 <b>Organisers:</b> Giuseppe Ancona (Strasbourg), Amador Martin-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
