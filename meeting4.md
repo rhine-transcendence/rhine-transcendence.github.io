@@ -9,7 +9,7 @@
   </TABLE>
 <hr>
 
-<b>Organisers:</b>  Giuseppe Ancona and Thomas Dreyfus (Strasbourg), Amador Martin-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
+<b>Organisers:</b>  Giuseppe Ancona and Thomas Dreyfus (Strasbourg), Amador Martín-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
 <b>Date:</b> October 12, 2023<br>
 <b>Venue:</b> Freiburg, Ernst-Zermelo-Str. 1, SR 404 
 <p>
