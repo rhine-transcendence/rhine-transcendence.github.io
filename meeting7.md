@@ -8,7 +8,7 @@
   </TABLE>
 <hr>
 
-<b>Organisers:</b>  Giuseppe Ancona (Strasbourg), Amador Martin-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
+<b>Organisers:</b>  Giuseppe Ancona (Strasbourg), Amador Martín-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
 <b>Date:</b> March 28, 2025<br>
 <b>Venue:</b> Freiburg University, Mathematical Institute (Ernst-Zermelo-Straße 1); SR 404 (talks), Common Room 331 (coffee)
 <p>
