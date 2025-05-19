@@ -7,17 +7,16 @@
     </TR>
   </TABLE>
 <hr>
-
-More infos to come in a few months.
-
-<!---
-
+	
 <b>Organisers:</b> Giuseppe Ancona (Strasbourg), Amador Martin-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
-<b>Date:</b> March 28, 2025<br>
+<b>Date:</b> October 17, 2025<br>
 <b>Venue:</b> University of Basel
 <p>
 <hr>
 <h1> Program </h1>
+
+TBA
+<!---
 
 <li> 10:15-11:00 Coffee reception <p></p>
 <li><b> 11:00-11:55 
