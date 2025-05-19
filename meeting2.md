@@ -8,9 +8,9 @@
   </TABLE>
 <hr>
 
-<b>Organisers:</b>  Giuseppe Ancona and Thomas Dreyfus (Strasbourg), Amador Martin-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
+<b>Organisers:</b>  Giuseppe Ancona and Thomas Dreyfus (Strasbourg), Amador Martín-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
 <b>Date:</b> November 4, 2022<br>
-<b>Venue:</b>Basel 
+<b>Venue:</b> Basel 
 <p>
 <hr>
 <h1>Program</h1>
