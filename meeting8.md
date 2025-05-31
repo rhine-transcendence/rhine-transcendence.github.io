@@ -9,7 +9,7 @@
 <hr>
 	
 <b>Organisers:</b> Giuseppe Ancona (Strasbourg), Amador Martín-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
-<b>Date:</b> October 17, 2025<br>
+<b>Date:</b> November 7, 2025<br>
 <b>Venue:</b> University of Basel
 <p>
 <hr>
