@@ -8,7 +8,7 @@ We plan to meet around twice a year and discuss current research revolving aroun
 
 <body> 
 <h2>Upcoming event</h2> 
-<p>October 17, 2025: <a href="https://rhine-transcendence.github.io/meeting8">8th Meeting (Basel)</a>  </p> 
+<p>November 7, 2025: <a href="https://rhine-transcendence.github.io/meeting8">8th Meeting (Basel)</a>  </p> 
 <h2>Past events</h2> 
 <p>March 28, 2025: <a href="https://rhine-transcendence.github.io/meeting7">7th Meeting (Freiburg)</a>  </p> 
 <p>October 14, 2024: <a href="https://rhine-transcendence.github.io/meeting6">6th Meeting (Strasbourg)</a>  </p>
