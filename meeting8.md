@@ -18,12 +18,26 @@
 TBA
 <!---
 
-<li> 10:15-11:00 Coffee reception <p></p>
-<li><b> 11:00-11:55 
-<li>Lunch <p>
-<li><b> 14:00-14:55 
-<li>Coffee break<p>
-<li><b> 15:30-16:25 
+<li> 9:30-10:50 Welcome coffee<p></p>
+<li><b>10:50-11:40 Talk 1</b> <p>
 
+<!---
+Abstract Talk 1 <p>
+--->
+
+<li>Lunch<p>
+
+<li><b>13:50-14:40 Talk 2 </b> <p>
+
+<!--
+Abstract Talk 2 <p>
+-->
+
+<li>14:40-15:10 Coffee break<p>
+<li><b>15:10-16:00 Talk 3</b> <p>
+
+<!-- 
+Abstract Talk 3 <p>
+-->	 
 
 --->
