@@ -10,7 +10,7 @@
 	
 <b>Organisers:</b> Giuseppe Ancona (Strasbourg), Amador Martín-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
 <b>Date:</b> November 7, 2025<br>
-<b>Venue:</b> University of Basel
+<b>Venue:</b> University of Basel, Hörsaal 114, Kollegienhaus
 <p>
 <hr>
 <h1> Program (tbc) </h1>
