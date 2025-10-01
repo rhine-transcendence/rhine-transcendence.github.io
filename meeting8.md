@@ -18,7 +18,7 @@
 <li> 9:30-10:50 Welcome coffee<p></p>
 <li><b>10:50-11:40 Talk 1</b> <p>
 
-<!---
+<!--- Charlotte Bartnick (?)
 Abstract Talk 1 <p>
 --->
 
@@ -34,6 +34,6 @@ Abstract Talk 2 <p>
 	
 <li><b>15:10-16:00 Talk 3</b> <p>
 
-<!-- 
+<!-- Seoyoung Kim (?)
 Abstract Talk 3 <p>
 -->	 
