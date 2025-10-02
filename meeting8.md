@@ -26,7 +26,7 @@ Abstract Talk 1 <p>
 
 <li><b>13:50-14:40 Talk 2 </b> <p>
 
-<!--
+<!-- Kenza Memlouk
 Abstract Talk 2 <p>
 -->
 
