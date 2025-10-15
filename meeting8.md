@@ -24,7 +24,7 @@ Abstract Talk 1 <p>
 
 <li>Lunch<p>
 
-<li><b>13:50-14:40 Seoyoug Kim (Basel) </b> <p>
+<li><b>13:50-14:40 Seoyoung Kim (Basel) </b> <p>
 
 <!--- 
 Abstract Talk 2 <p>
