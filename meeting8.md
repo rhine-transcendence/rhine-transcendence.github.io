@@ -24,15 +24,14 @@ Abstract Talk 1 <p>
 
 <li>Lunch<p>
 
-<li><b>13:50-14:40 Kenza Memlouk (IRMA): Multiple zeta values and quiver representations </b> <p>
+<li><b>13:50-14:40 Seoyoug Kim (Basel) </b> <p>
 
-In this talk, we are interested in multiple zeta values. They are periods associated to the category MTM(Z) of mixed Tate motives over the ring of integers. Recently, A.Huber and M.Kalck have shown that some subcategories of MTM(Z) are equivalent to representations of some quivers. We will see the implications of this result on motivic multiple zeta values. More precisely, we will compare this point of view with a construction of Goncharov and we will explore this new perspective on formal multiple zeta values.  <p>
-
+<!--- 
+Abstract Talk 2 <p>
+--->
 
 <li>14:40-15:10 Coffee break<p>
 	
-<li><b>15:10-16:00 Seoyoung Kim</b> <p>
+<li><b>15:10-16:00 Kenza Memlouk (IRMA): Multiple zeta values and quiver representations </b> <p>
 
-<!--
-Abstract Talk 3 <p>
--->	 
+In this talk, we are interested in multiple zeta values. They are periods associated to the category MTM(Z) of mixed Tate motives over the ring of integers. Recently, A.Huber and M.Kalck have shown that some subcategories of MTM(Z) are equivalent to representations of some quivers. We will see the implications of this result on motivic multiple zeta values. More precisely, we will compare this point of view with a construction of Goncharov and we will explore this new perspective on formal multiple zeta values.  <p>
