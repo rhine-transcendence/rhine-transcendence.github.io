@@ -13,7 +13,7 @@
 <b>Venue:</b> University of Basel, Hörsaal 114 in Kollegienhaus (Petersplatz 1)
 <p>
 <hr>
-<h1> Program (tbc) </h1>
+<h1> Program </h1>
 
 <li> 9:30-10:50 Welcome coffee<p></p>
 <li><b>10:50-11:40 Charlotte Bartnick (Freiburg) </b> <p>
