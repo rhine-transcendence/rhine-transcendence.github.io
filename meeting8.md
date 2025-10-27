@@ -20,7 +20,7 @@
 
 Differentially closed fields are the differential equivalent to algebraically closed fields. They provide a setting for model theorists to study differential algebraic questions.
 
-In this talk, we will introduce the properties of differentially closed fields in positive characteristic from a model theoretic point of view. In particular, we will describedefinable groups. No prior model theoretic knowledge is required.  <p>
+In this talk, we will introduce the properties of differentially closed fields in positive characteristic from a model theoretic point of view. In particular, we will describe definable groups. No prior model theoretic knowledge is required.  <p>
 
 
 <li>Lunch<p>
