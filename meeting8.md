@@ -16,11 +16,12 @@
 <h1> Program </h1>
 
 <li> 9:30-10:50 Welcome coffee<p></p>
-<li><b>10:50-11:40 Charlotte Bartnick (Freiburg) </b> <p>
+<li><b>10:50-11:40 Charlotte Bartnick (Freiburg): Differentially closed fields of positive characteristic </b> <p>
 
-<!--- 
-Abstract Talk 1 <p>
---->
+Differentially closed fields are the differential equivalent to algebraically closed fields. They provide a setting for model theorists to study differential algebraic questions.
+
+In this talk, we will introduce the properties of differentially closed fields in positive characteristic from a model theoretic point of view. In particular, we will describedefinable groups. No prior model theoretic knowledge is required.  <p>
+
 
 <li>Lunch<p>
 
