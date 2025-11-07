@@ -8,7 +8,7 @@
   </TABLE>
 <hr>
 
-<b>Organisers:</b>  Giuseppe Ancona (Strasbourg), Amador MMartín-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
+<b>Organisers:</b>  Giuseppe Ancona (Strasbourg), Amador Martín-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
 <b>Date:</b> October 14, 2024<br>
 <b>Venue:</b> Université de Strasbourg,
 Institut de recherche Mathématique avancée,
