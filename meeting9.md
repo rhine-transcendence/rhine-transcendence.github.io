@@ -9,8 +9,11 @@
 <hr>
 
 <b>Organisers:</b>  Giuseppe Ancona (Strasbourg), Amador MMartín-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
-<b>Date:</b> October 14, 2024<br>
+<b>Date:</b> May 22, 2026<br>
 <b>Venue:</b> Université de Strasbourg,
+
+<!---
+
 Institut de recherche Mathématique avancée,
 7 rue René Descartes, 67000 Strasbourg
 <p>
@@ -28,3 +31,5 @@ Let f_t(z)=z^2+t. For any rational number z, let S_z be the set of rational numb
 By a theorem of Borel, any holomorphic map from a complex algebraic variety to the moduli space of abelian varieties (and more generally to an arithmetic variety) is in fact algebraic. A key input is to prove that any holomorphic map from a product of punctured disks to such an arithmetic variety does not have any essential singularities.  
 In this talk, I'll discuss a p-adic analogue of these results. This is joint work with Ananth Shankar and Xinwen Zhu (with an appendix by Anand Patel).
 <p>
+
+--->
