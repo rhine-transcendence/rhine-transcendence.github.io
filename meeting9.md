@@ -14,13 +14,11 @@
 Institut de recherche Mathématique avancée,
 7 rue René Descartes, 67000 Strasbourg
 <p>
+<hr>
 	
 <!---
 
-Institut de recherche Mathématique avancée,
-7 rue René Descartes, 67000 Strasbourg
-<p>
-<hr>
+
 <h1>Program </h1>
 <li> 10:30-11:00 Welcome coffee<p>
 <li><b> 11:00-11:50 Stefan Ludwig (Freiburg): Model theory of difference fields with an additive character on the fixed field </b> <p>
