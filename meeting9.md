@@ -9,7 +9,7 @@
 <hr>
 
 <b>Organisers:</b>  Giuseppe Ancona (Strasbourg), Amador Martín-Pizarro and Annette Huber (Freiburg), Philipp Habegger (Basel)<br>
-<b>Date:</b> May 22, 2026<br>
+<b>Date:</b> June 12, 2026<br>
 <b>Venue:</b> Université de Strasbourg
 Institut de recherche Mathématique avancée,
 7 rue René Descartes, 67000 Strasbourg
