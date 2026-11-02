@@ -3,13 +3,15 @@
 <p>The Rhine Seminar on Transcendence is a joint initative of Giuseppe Ancona and Thomas Dreyfus (Strasbourg),
 Annette Huber and Amador Martín-Pizarro (Freiburg), Philipp Habegger (Basel).
 
-We plan to meet around twice a year and discuss current research revolving around transcendence theory in a one day format.  </p>
+We meet twice a year and discuss current research revolving around transcendence theory in a one day format.  </p>
 </body>
 
 <body> 
 <h2>Upcoming event</h2> 
-<p>June 12, 2026: <a href="https://rhine-transcendence.github.io/meeting9">9th Meeting (Strasbourg)</a>  </p> 
+  
+<p>December 7, 2026: <a href="https://rhine-transcendence.github.io/meeting10">10th Meeting (Freiburg)</a>  </p> 
 <h2>Past events</h2> 
+<p>June 12, 2026: <a href="https://rhine-transcendence.github.io/meeting9">9th Meeting (Strasbourg)</a>  </p>
 <p>November 7, 2025: <a href="https://rhine-transcendence.github.io/meeting8">8th Meeting (Basel)</a>  </p>   
 <p>March 28, 2025: <a href="https://rhine-transcendence.github.io/meeting7">7th Meeting (Freiburg)</a>  </p> 
 <p>October 14, 2024: <a href="https://rhine-transcendence.github.io/meeting6">6th Meeting (Strasbourg)</a>  </p>
