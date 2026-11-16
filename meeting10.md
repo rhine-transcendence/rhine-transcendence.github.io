@@ -16,14 +16,14 @@
 <h1> Program </h1>
 
 <li> 10:15-11:00 Coffee reception <p></p>
-<li><b> 11:00-11:50 Talk 1 </b> <p>
-Abstract tba
+<li><b> 11:00-11:50 Amador Martin-Pizarro (Freiburg): On topologies in a field and a theorem of Ritt </b> <p>
+An old result of Ritt implies that a Zariski constructible subset of $\mathbb C^n$ which is euclidean closed is already Zariski closed. We will provide a new proof of Ritt's result using model theoretic techniques. 
 <p>
 <li>Lunch <p>
 <li><b> 14:00-14:50 Talk 2 </b> <p></p>
 Abstract tba <p></p>
 <li>15:00-15:50 Coffee break<p>
-<li><b> 15:50-16:45 Talk 3 </b> <p></p> 
+<li><b> 15:50-16:45 Francesca Rizzo (Strasbourg) </b> <p></p> 
 Abstract tba <p></p>
 
 
