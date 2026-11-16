@@ -23,8 +23,8 @@ An old result of Ritt implies that a Zariski constructible subset of $\mathbb C^
 <li><b> 14:00-14:50 Talk 2 </b> <p></p>
 Abstract tba <p></p>
 <li>15:00-15:50 Coffee break<p>
-<li><b> 15:50-16:45 Francesca Rizzo (Strasbourg) </b> <p></p> 
-Abstract tba <p></p>
+<li><b> 15:50-16:45 Francesca Rizzo (Strasbourg): Computing the Brauer group of Enriques manifolds </b> <p></p> 
+The Brauer group of a smooth projective variety X measures how far projective bundles on X are from being “trivial”, namely projectivizations of vector bundles. It splits as a direct sum of two components: one depending on the algebraic structure of X, and one purely topological, equal to the torsion of the third integral cohomology group of X. In this talk, I will introduce the Brauer group and some of its basic properties. I will then discuss joint work with F. Tufo, A. Frassineti, and M. Verni, in which we study the Brauer group of Enriques manifolds. <p></p>
 
 
 
