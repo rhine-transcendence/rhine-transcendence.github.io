@@ -16,12 +16,14 @@
 <h1> Program </h1>
 
 <li> 10:15-11:00 Coffee reception <p></p>
-<li><b> 11:00-11:50 Amador Martin-Pizarro (Freiburg): On topologies in a field and a theorem of Ritt </b> <p>
-An old result of Ritt implies that a Zariski constructible subset of $\mathbb C^n$ which is euclidean closed is already Zariski closed. We will provide a new proof of Ritt's result using model theoretic techniques. 
+<li><b> 11:00-11:55 Amador Martin-Pizarro (Freiburg): On topologies in a field and a theorem of Ritt </b> <p>
+An old result of Ritt implies that a Zariski constructible subset of $\mathbb C^n$ which is euclidean closed is already Zariski closed. We will discuss some of the ingredients of a new proof of Ritt's result in joint work with Martin Ziegler, using model theoretic techniques.
 <p>
 <li>Lunch <p>
-<li><b> 14:00-14:50 Talk 2 </b> <p></p>
-Abstract tba <p></p>
+<li><b> 14:00-14:55 Tobias Bisang (Basel): The elliptic Mahler measure and the Boyd--Lawton theorem </b> <p></p>
+<p>The (toric) Mahler measure of a complex polynomial is given by integrating the logarithm of its absolute value over the unit circle. Similarly, one can define the elliptic Mahler measure of a polynomial by integrating over an elliptic curve.
+
+In this talk, I present parallels between the elliptic and the toric Mahler measure. The focus is on the Boyd--Lawton theorem which shows that the Mahler measure of a multivariate polynomial can be approximated by the Mahler measure of suitable univariate polynomials. </p>
 <li>15:00-15:50 Coffee break<p>
 <li><b> 15:50-16:45 Francesca Rizzo (Strasbourg): Computing the Brauer group of Enriques manifolds </b> <p></p> 
 The Brauer group of a smooth projective variety X measures how far projective bundles on X are from being “trivial”, namely projectivizations of vector bundles. It splits as a direct sum of two components: one depending on the algebraic structure of X, and one purely topological, equal to the torsion of the third integral cohomology group of X. In this talk, I will introduce the Brauer group and some of its basic properties. I will then discuss joint work with F. Tufo, A. Frassineti, and M. Verni, in which we study the Brauer group of Enriques manifolds. <p></p>
